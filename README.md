@@ -28,7 +28,7 @@ The main premise of this simulation is spawning in physics-based balls (players)
 If two weapons collide, they will "clash," inverting the direction of rotation for both players.
 
 ### Winning
-Once one player remains, the game pauses and ends. It is possible for a tie to happen where the last two players die at once.
+Once one player remains, the game pauses and ends. It is possible for a tie to happen where the last two players die at the same time.
 
 ### Pausing
 Upon pressing space, the game can pause and unpause.
